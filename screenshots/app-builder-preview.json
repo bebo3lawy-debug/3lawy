@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "كابتن أحمد العلاوي | جلسات مساج منزلية برايفت للرجال",
+      "hasCanvas": false,
+      "bodyTextLen": 1301,
+      "bodyTextHash": "a8b5b912b18fbce28b057f4dcf0042c60e33e0615bb9a2229f415653344e108a",
+      "bodyTextPrefix": "ع كابتن أحمد العلاوي من أنا الخدمات الحجز احجز جلستك كابتن أحمد ",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\n%s%s https://react.dev/link/hydration-mismatch \n\n  ...\n    <MatchInnerImpl match={{id:\"//\",ssr:true, ...}}>\n      <Lazy>\n        <Home>\n          <div className=\"page-energ...\">\n            <TopNav>\n            <main className=\"relative z...\">\n              <Hero>\n              <About>\n              <Services>\n              <SessionDetails>\n              <Booking>\n                <section id=\"booking\" className=\"px-5 py-16...\">\n                  <div className=\"mx-auto ma...\">\n                    <Reveal>\n                    <Reveal delay={80}>\n                      <div ref={{current:null}} className=\"reveal-in ...\" style={{...}}>\n                        <form id=\"booking-form\" onSubmit={function onSubmit} className=\"glass-card...\">\n                          <div className=\"space-y-5\">\n                            <Field>\n                              <div className=\"space-y-2\">\n                                <Label>\n                                <Input id=\"user_name\" name=\"user_name\" required={true} autoComplete=\"name\" ...>\n                                  <input\n                                    type={undefined}\n                                    className=\"flex h-12 w-full rounded-md border border-border bg-bg-elevated px-4 te...\"\n                                    id=\"user_name\"\n                                    name=\"user_name\"\n                                    required={true}\n                                    autoComplete=\"name\"\n                                    placeholder=\"اكتب اسمك بالكامل\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                            <Field>\n                              <div className=\"space-y-2\">\n                                <Label>\n                                <Input id=\"user_phone\" name=\"user_phone\" type=\"tel\" inputMode=\"numeric\" required={true} ...>\n                                  <input\n                                    type=\"tel\"\n                                    className=\"flex h-12 w-full rounded-md border border-border bg-bg-elevated px-4 te...\"\n                                    id=\"user_phone\"\n                                    name=\"user_phone\"\n                                    inputMode=\"numeric\"\n                                    required={true}\n                                    autoComplete=\"tel\"\n                                    placeholder=\"01xxxxxxxxx\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                            <Field>\n                              <div className=\"space-y-2\">\n                                <Label>\n                                <Input id=\"user_location\" name=\"user_location\" required={true} ...>\n                                  <input\n                                    type={undefined}\n                                    className=\"flex h-12 w-full rounded-md border border-border bg-bg-elevated px-4 te...\"\n                                    id=\"user_location\"\n                                    name=\"user_location\"\n                                    required={true}\n                                    autoComplete=\"address-level2\"\n                                    placeholder=\"اكتب منطقتك أو محافظتك\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                            <Field>\n                            <Field>\n                              <div className=\"space-y-2\">\n                                <Label>\n                                <Input id=\"session_date\" name=\"session_date\" type=\"date\" placeholder=\"اختر اليوم...\">\n                                  <input\n                                    type=\"date\"\n                                    className=\"flex h-12 w-full rounded-md border border-border bg-bg-elevated px-4 te...\"\n                                    id=\"session_date\"\n                                    name=\"session_date\"\n                                    placeholder=\"اختر اليوم المناسب لك\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                            <Field>\n                              <div className=\"space-y-2\">\n                                <Label>\n                                <Textarea id=\"user_notes\" name=\"user_notes\" rows={4} placeholder=\"اكتب احتيا...\">\n                                  <textarea\n                                    className=\"flex min-h-28 w-full rounded-md border border-border bg-bg-elevated px-...\"\n                                    id=\"user_notes\"\n                                    name=\"user_notes\"\n                                    rows={4}\n                                    placeholder=\"اكتب احتياجك أو أي ملاحظة أو استفسار\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                          ...\n            ...\n"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "كابتن أحمد العلاوي | جلسات مساج منزلية برايفت للرجال",
+      "hasCanvas": false,
+      "bodyTextLen": 1290,
+      "bodyTextHash": "93af7387cc1249c0063cab53d57cf1d63c4497a550e406410c2030c25056e283",
+      "bodyTextPrefix": "ع كابتن أحمد العلاوي كابتن أحمد العلاوي راحتك في بيتك جلسات مساج",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

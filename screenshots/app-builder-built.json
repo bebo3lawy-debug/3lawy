@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "كابتن أحمد العلاوي | جلسات مساج منزلية برايفت للرجال",
+      "hasCanvas": false,
+      "bodyTextLen": 1301,
+      "bodyTextHash": "a8b5b912b18fbce28b057f4dcf0042c60e33e0615bb9a2229f415653344e108a",
+      "bodyTextPrefix": "ع كابتن أحمد العلاوي من أنا الخدمات الحجز احجز جلستك كابتن أحمد ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "كابتن أحمد العلاوي | جلسات مساج منزلية برايفت للرجال",
+      "hasCanvas": false,
+      "bodyTextLen": 1290,
+      "bodyTextHash": "93af7387cc1249c0063cab53d57cf1d63c4497a550e406410c2030c25056e283",
+      "bodyTextPrefix": "ع كابتن أحمد العلاوي كابتن أحمد العلاوي راحتك في بيتك جلسات مساج",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
